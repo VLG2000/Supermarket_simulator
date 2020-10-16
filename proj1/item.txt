@@ -1,0 +1,9 @@
+soap
+20
+10
+candy
+1
+50
+cotton
+35.6
+3
